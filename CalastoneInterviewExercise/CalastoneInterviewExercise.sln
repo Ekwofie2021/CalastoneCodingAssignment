@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalastoneInterviewExercise", "CalastoneInterviewExercise\CalastoneInterviewExercise.csproj", "{90AD8319-B8A2-45F6-A208-838F35241034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalastoneInterviewExerciseTests", "CalastoneInterviewExerciseTests\CalastoneInterviewExerciseTests.csproj", "{91F4C70E-C74A-4A42-92EF-DDEE4F4A71A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90AD8319-B8A2-45F6-A208-838F35241034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AD8319-B8A2-45F6-A208-838F35241034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AD8319-B8A2-45F6-A208-838F35241034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AD8319-B8A2-45F6-A208-838F35241034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F4C70E-C74A-4A42-92EF-DDEE4F4A71A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F4C70E-C74A-4A42-92EF-DDEE4F4A71A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F4C70E-C74A-4A42-92EF-DDEE4F4A71A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F4C70E-C74A-4A42-92EF-DDEE4F4A71A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3B6CE21-2FAC-4D1C-BBF7-5B87C513EF89}
+	EndGlobalSection
+EndGlobal
